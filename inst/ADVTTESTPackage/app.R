@@ -6,7 +6,7 @@
 #library
 #    http://shiny.rstudio.com/
 #
-
+# this is my shiny server
 library(shiny)
 library(ggplot2)
 
